@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Desafio_Password_Strength_MVP</string>
+    <string name="weak">WEAK</string>
+    <string name="medium">MEDIUM</string>
+    <string name="strong">STRONG</string>
+    <string name="veryStrong">VERY STRONG</string>
+</resources>
